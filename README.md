@@ -1,3 +1,7 @@
+# Install
+- copy .env.example to .env
+- change the variable DB_DATABASE to correct path
+
 # Execute
 ```php artisan serve```
 
